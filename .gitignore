@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Eclipse
+.metadata/
+.settings/
+
+# IntelliJ
+.idea/
+
+# Environment secrets
+.env
+.env.*
+application-local.properties
+
+# Logs and database backups
+*.log
+*.dump
+*.backup
